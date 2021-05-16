@@ -1,7 +1,7 @@
 # Professional-Website
 refactoring code to make it more accessible.
 
-* Replaced 'Div' class=hero with 'header' on html and changed it from a class to an element on css.
+* Replaced 'Div class=hero' with 'header' on html and changed it from a class to an element on css.
 
 * Replaced 'div' with 'nav' for navigation. Added id('s)= for navigation.
 
