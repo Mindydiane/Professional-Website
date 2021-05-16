@@ -1,5 +1,5 @@
 # Professional-Website
-refactoring code to make it more accesible.
+refactoring code to make it more accessible.
 
 * Replaced <Div class=hero></Div> with <header> on html and changed it from a class to an element on css.
 
