@@ -3,7 +3,7 @@ refactoring code to make it more accesible.
 
 * Replaced <Div class=hero></Div> with <header> on html and changed it from a class to an element on css.
 
-* Replaced <div> with <nav> for navigation.
+* Replaced <div> with <nav> for navigation. Added id= for navigation.
 
 * Added notes on both the html and css side.
 
